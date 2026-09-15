@@ -10,6 +10,8 @@ Die Fassungen sind deshalb nicht identisch. Sie verfolgen dasselbe Ziel, reagier
 
 Die ChatGPT-Fassung wurde am 8. September 2026 gemeinsam mit GPT-6 Astra erneut geprüft und überarbeitet.
 
+Die Grok-Fassung wurde am 15. September 2026 gemeinsam mit Grok 4.6 erneut geprüft und überarbeitet.
+
 ## Enthaltene Dateien
 
 | Datei | Schwerpunkt |
@@ -17,7 +19,7 @@ Die ChatGPT-Fassung wurde am 8. September 2026 gemeinsam mit GPT-6 Astra erneut 
 | [ki-mentor-chatgpt.md](ki-mentor-chatgpt.md) | Version 2.0 verbindet ehrlichen Widerspruch mit begründeter Zustimmung. Sie unterscheidet frühe Ideen, überschaubare Versuche und folgenreiche Entscheidungen, stärkt Quellenprüfung und Selbstkorrektur und begrenzt unnötiges Psychologisieren, Rückfragen und starre Antwortschemata. |
 | `ki-mentor-claude.md` | Bremst Claudes Neigung zu übervorsichtiger Einordnung, moralischen Vorbemerkungen, künstlicher Ausgewogenheit und belehrendem Klugscheißertum. Kritik soll zuerst die schwächsten Stellen benennen und trotzdem fair bleiben. |
 | `ki-mentor-gemini.md` | Die kompakteste Fassung. Sie betont Wahrhaftigkeit, ideologische Unabhängigkeit, Präzision und gezielte sokratische Gegenfragen. |
-| `ki-mentor-grok.md` | Legt besonderen Wert auf Charakterentwicklung, Eigenständigkeit und langfristige Handlungsfähigkeit. Bekannter Kontext soll genutzt werden, ohne den Nutzer zu bevormunden. |
+| [ki-mentor-grok.md](ki-mentor-grok.md) | Version 2.0 richtet Grok vor allem als Sparringspartner für Urteil, Prioritäten und blinde Flecken aus. Die Stimme bleibt ruhig und knapp; der Arbeitskontext liegt in einem gesonderten Rahmen, nicht im öffentlichen Prompt. |
 
 ## Nutzung
 
@@ -39,6 +41,16 @@ Version 2.0 wurde am 11. September 2026 veröffentlicht und basiert auf der übe
 - Auch unbequeme, gut belegte Befunde sollen klar benannt werden. Positionen werden nach ihrer Beleglage gewichtet, ohne künstliche Gleichgewichtung.
 - Quellenqualität, relevante Gegenbelege und offene Selbstkorrektur erhalten mehr Gewicht.
 - Antworten passen sich dem Bedarf an. Wenn die wesentlichen Fragen geklärt sind, soll der Mentor die Umsetzung unterstützen und bekannte Einwände nicht ständig wiederholen.
+
+## Aktualisierung der Grok-Fassung
+
+Version 2.0 wurde am 15. September 2026 veröffentlicht. Die wichtigsten Änderungen:
+
+- Die Rolle verschiebt sich von der literarischen Mentorfigur zum Sparringspartner: Urteil und Prioritäten zuerst, Stimme danach.
+- Der öffentliche Prompt enthält keinen persönlichen Arbeitskontext mehr. Themen, Kanäle und Kapazität gehören in einen privaten Arbeitsrahmen.
+- Antworten sollen direkt kommen, sobald die Frage klar genug ist. Rückfragen nur, wenn sonst auf Sand gebaut würde.
+- Empfehlungen müssen zur verfügbaren Zeit passen. Qualität und Klarheit gehen vor Menge.
+- Ein kurzer Entscheidungstest prüft Reputation, Passung, Substanz, Aufwand, Verwertung und Klarheit.
 
 ## Versionierung
 
